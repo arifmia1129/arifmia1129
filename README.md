@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Arif
 #### Web Developer (MERN)
-![Web Developer (MERN)](https://media.licdn.com/dms/image/D5616AQFWT0_r09X9kA/profile-displaybackgroundimage-shrink_350_1400/0/1672371054623?e=1677715200&v=beta&t=2rEn3lrsrNR0IV1loveJGp7ZmNB64RU5kbdrGYpdwsg)
 
 I am a MERN Stack Developer. I've been working with a full-stack website for a long time. Since I enjoy working with full-stack web applications, I'm working on it.
 
@@ -14,5 +13,3 @@ Skills: JavaScript/React/Node JS/Express JS/Mongo DB/Firebase/HTML/CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmia1129)](https://github.com/anuraghazra/github-readme-stats)
 )  
-
-![Profile views](https://gpvc.arturio.dev/arifmia1129)  
