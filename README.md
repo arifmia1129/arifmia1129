@@ -5,7 +5,7 @@ I am a MERN Stack Developer. I've been working with a full-stack website for a l
 
 Skills: JavaScript/React/Node JS/Express JS/Mongo DB/Firebase/HTML/CSS
 
-- 🔭 I’m currently working on Seba Automation as a React Developer 
+- 🔭 I’m currently working on Supreme Supports as a Software Developer 
 - 🌱 I’m currently learning Node JS, Express JS, Mongo DB 
 
 
