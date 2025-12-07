@@ -27,7 +27,6 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 - 📱 Expert in React Native & React.js ecosystem
 - 🔧 Backend specialist with Node.js, Express.js, and Laravel
 - 🌱 Currently deepening my expertise in AI/ML technologies
-- 💼 Successfully delivered 8+ mobile applications and numerous web solutions
 
 ---
 
@@ -55,6 +54,7 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -106,8 +106,8 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 ### 💪 Professional Growth
 - **Promoted to Full Stack Developer** (Nov 2025)
 - **Programming Hero Graduate Black Belt**
-- Successfully delivered **8+ mobile apps**
-- Led development of multiple web platforms
+- Delivered **6+ mobile apps** and **2+ web platforms**
+- Led development of multiple enterprise solutions
 
 </td>
 </tr>
@@ -119,14 +119,11 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifmia1129&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmia1129&layout=compact&langs_count=8&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifmia1129&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmia1129&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arifmia1129&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arifmia1129&theme=tokyonight&hide_border=true)
 
 </div>
 
