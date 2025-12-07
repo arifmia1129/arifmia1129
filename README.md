@@ -81,7 +81,6 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 **Supreme Solutions** (Sydney, Australia)  
 *December 2023 - November 2025*
 
-- ✅ Delivered 6+ mobile applications and 2+ web platforms
 - 🎯 Assessed technical feasibility and provided accurate time estimates
 - 👥 Collaborated with cross-functional teams to deliver high-quality solutions
 - 📊 Implemented data-driven features and analytics integration
@@ -106,8 +105,8 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 ### 💪 Professional Growth
 - **Promoted to Full Stack Developer** (Nov 2025)
 - **Programming Hero Graduate Black Belt**
-- Delivered **6+ mobile apps** and **2+ web platforms**
-- Led development of multiple enterprise solutions
+- Built scalable mobile and web solutions
+- Recognized for exceptional technical expertise
 
 </td>
 </tr>
@@ -117,15 +116,17 @@ I'm a **Full Stack Developer** specializing in building scalable web and mobile 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifmia1129&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifmia1129&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmia1129&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmia1129&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arifmia1129&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifmia1129&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
